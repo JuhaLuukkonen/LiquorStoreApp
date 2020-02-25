@@ -7,3 +7,9 @@ Download LiquirStoreApp folder locally and execute in terminal:
 mvn tomcat7:run
 
 After successful deployment go into the browser and type http://localhost:8080/LiquorStoreApp
+
+Except previous won't work and IDE gives:
+
+http://localhost:63342/LiquorStoreApp/src/main/webapp/index.html?
+
+Interesting!
