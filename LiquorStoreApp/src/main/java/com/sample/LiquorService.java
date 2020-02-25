@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Juha on
+ * Juha 2.2020
  */
 public class LiquorService {
 
